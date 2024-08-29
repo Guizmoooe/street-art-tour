@@ -1,0 +1,6 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to show street art murals nearby.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need your location to show street art murals nearby even in the background.</string>
+<key>UIStatusBarHidden</key>
+<true/>
